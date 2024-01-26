@@ -1,0 +1,54 @@
+.container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f0f8f0;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.event-title {
+  font-size: 24px;
+  color: #008000;
+  margin-bottom: 10px;
+}
+
+.event-info {
+  font-size: 16px;
+  color: #006400;
+  margin-bottom: 15px;
+}
+
+.outcome-label {
+  font-size: 18px;
+  color: #008000; /* Темно-зеленый цвет для меток выбора исхода */
+  margin-bottom: 10px;
+}
+
+.outcome-option {
+  margin-right: 10px;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: #008000;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #4caf50;
+}
+
+.notification {
+  padding: 15px;
+  margin-bottom: 20px;
+  background-color: #83efb9;
+  border: 1px solid #c3e6cb;
+  color: #155724;
+  border-radius: 15px;
+}
