@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Guns1301/sport-bet/static/css/main.008bb911.css",
+    "main.js": "/Guns1301/sport-bet/static/js/main.33e9c39a.js",
+    "index.html": "/Guns1301/sport-bet/index.html",
+    "main.008bb911.css.map": "/Guns1301/sport-bet/static/css/main.008bb911.css.map",
+    "main.33e9c39a.js.map": "/Guns1301/sport-bet/static/js/main.33e9c39a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.008bb911.css",
+    "static/js/main.33e9c39a.js"
+  ]
+}
