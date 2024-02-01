@@ -31,3 +31,45 @@
 .eventLink:hover {
   color: #d4edda;
 }
+
+@media screen and (max-width: 768px) {
+  .container {
+    max-width: 90%;
+    margin: 10px auto;
+    padding: 15px;
+  }
+
+  .title {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+
+  .eventItem {
+    margin-bottom: 8px;
+  }
+
+  .eventLink {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1440px) {
+  .container {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 25px;
+  }
+
+  .title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  .eventItem {
+    margin-bottom: 12px;
+  }
+
+  .eventLink {
+    font-size: 16px;
+  }
+}
